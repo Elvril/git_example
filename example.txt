@@ -1,3 +1,2 @@
 "Hello git!" 
 "this is a modification in my file"
-"new feature in progress." 
