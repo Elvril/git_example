@@ -1,2 +1,3 @@
 "Hello git!" 
 "this is a modification in my file"
+some text
